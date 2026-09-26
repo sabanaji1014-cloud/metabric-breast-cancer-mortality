@@ -1,0 +1,19 @@
+# Data (download from Kaggle, see data/README.md)
+data/*.csv
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# knitr / rmarkdown intermediates
+*_cache/
+*.html
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
